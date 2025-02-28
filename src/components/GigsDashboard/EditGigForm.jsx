@@ -73,7 +73,7 @@ const EditGigForm = ({ initialGig }) => {
   return (
     <Card className="w-full h-full border-none shadow-none">
       <CardHeader className="p-0">
-        <CardTitle className="text-xl md:text-2xl font-bold text-[#0097A7]" >Edit Gig</CardTitle>
+        <CardTitle className="text-xl sm:text-3xl font-bold text-[#0097A7]" >Edit Gig</CardTitle>
       </CardHeader>
       <div className="p-0">
         <DashedSeparator />
